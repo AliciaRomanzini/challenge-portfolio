@@ -1,0 +1,20 @@
+.academic{
+    width: 1,440px;
+    height: 581px;
+    padding: 82px;
+    gap: 32px;
+    background-color: #EAF2FD;
+    margin-top: 2rem;
+}
+
+@media screen and (max-width: 768px){
+    .academic{
+        width: 366px;
+        height: 661px;
+        padding: 32px;
+        gap: 32px;
+        margin-bottom: 1000px;
+        align-items: center;
+        
+    }
+}

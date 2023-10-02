@@ -1,0 +1,16 @@
+.titulo__formacion{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}   
+
+@media screen and (max-width: 768px){
+    .titulo__formacion{
+        flex-direction: column;
+        align-items: initial;
+        margin-left: 1rem;
+        
+    }
+}

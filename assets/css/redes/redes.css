@@ -1,0 +1,12 @@
+.redes{
+    display: flex;
+    margin-left: 0.5rem;
+    
+}
+
+@media screen and (max-width: 768px){
+    .redes{
+        flex-direction: column;
+        
+    }
+}

@@ -1,0 +1,22 @@
+.skills{
+    width: 1,136px;
+    height: 244px;
+    gap: 32px;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+@media screen and (max-width: 768px){
+   .skills{
+    flex-wrap: wrap;
+    width: 360px;
+    height: 508px;
+    padding: 16px;
+    gap: 32px;
+    margin-bottom: 600px;
+   }
+   
+}  

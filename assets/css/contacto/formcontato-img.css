@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px){
+    .formcontato__img{
+        width: 220px;
+        height: 181px;
+        margin-top: 10px;
+        padding-left: 20px;
+        
+
+    }
+}

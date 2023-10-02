@@ -1,0 +1,16 @@
+.hobbies__titulo{
+    text-align: center;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 32px;
+    color:#464646 ;
+}
+
+@media screen and (max-width: 768px){
+    .hobbies__titulo{
+        text-align: initial;
+        font-size: 22px;
+        line-height: 25.83px;
+        margin-left: 60px;
+    }
+}

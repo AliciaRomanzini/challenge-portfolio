@@ -1,0 +1,11 @@
+.titulo__redes{
+    display: flex;
+    margin-left: 3rem;
+    
+}
+
+@media screen and (max-width: 768px){
+    .titulo__redes{
+        margin-left: 1rem;
+    }
+}

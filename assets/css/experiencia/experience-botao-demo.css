@@ -1,0 +1,32 @@
+.experience__botao--demo{
+    width: 105px;
+    height: 51px;
+    padding: 16px;
+    gap: 10px;
+    background-color:#2A7AE4 ;
+    border-radius: 4px;
+    border: none;
+    margin-top: 2rem;
+    font-family: Raleway;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.78px;
+    color:#FFFFFF ;
+    cursor: pointer;
+}
+
+.experience__botao--demo:hover{
+    background-color: darkgray
+}
+
+@media screen and (max-width: 768px){
+    .experience__botao--demo{
+        width: 108px;
+        height: 40px;
+        border: 1px;
+        padding-top: 10px;
+        gap: 10px;
+        margin-top: 5px;
+        
+    }
+}

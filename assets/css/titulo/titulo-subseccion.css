@@ -1,0 +1,19 @@
+.titulo__subseccion{
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 25.83px;
+    color: #464646;
+}
+
+@media screen and (max-width: 768px){
+    .titulo__subseccion{
+        width: 328px;
+        height: 48px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16.44px;
+        margin-top: 4rem;
+        
+    }
+}

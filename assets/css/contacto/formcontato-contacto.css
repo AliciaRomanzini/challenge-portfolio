@@ -1,0 +1,13 @@
+.formcontato__contacto{
+    display: flex;
+}   
+
+@media screen and (max-width: 768px){
+    .formcontato__contacto{
+        flex-direction: column;
+        
+        
+
+    }
+    
+}

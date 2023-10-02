@@ -1,0 +1,14 @@
+.sobre__descripcion{
+    color:#464646 ;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Raleway;
+    line-height: 18.78px;
+}
+
+@media screen and (max-width: 768px){
+    .sobre__descripcion{
+         font-size: 12px;
+         line-height: 16.44px;
+    }
+}   

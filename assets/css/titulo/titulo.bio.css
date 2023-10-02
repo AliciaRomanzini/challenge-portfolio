@@ -1,0 +1,23 @@
+.titulo__bio{
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 61.05px;
+    color: #464646;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    
+}
+
+
+@media screen and (max-width: 768px){
+    .titulo__bio{
+        width: 328px;
+        height: 52px;
+        font-size: 22px;
+        line-height: 25.83px;
+        text-align: initial;
+        margin-left: 1rem;
+        
+    }
+}

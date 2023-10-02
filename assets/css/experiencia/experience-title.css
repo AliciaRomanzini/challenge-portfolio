@@ -1,0 +1,16 @@
+.experience__title{
+    font-family: Raleway;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18.78px;
+    color: #464646;
+}
+
+@media screen and (max-width: 768px){
+    .experience__title{
+        font-size: 14px;
+        line-height: 16.44px;
+        
+    }
+}
+

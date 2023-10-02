@@ -1,0 +1,22 @@
+.hobbies__box{
+    list-style-type: none;
+    width: 142px;
+    height: 140px;
+    padding: 10px;
+    background-color: #cac8c8; ;
+    border-radius:3%
+    
+}   
+
+@media screen and (max-width: 768px){
+        .hobbies__box{
+         width: 156px;
+         height: 118px;
+         padding: 16px;
+         gap: 8px;
+         flex-wrap: wrap;
+         margin: 10px;
+         align-items: center;
+        }
+ }   
+

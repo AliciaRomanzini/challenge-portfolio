@@ -1,0 +1,10 @@
+.titulo{
+    align-items: center;
+    
+}
+
+@media screen and (max-width: 768px){
+    .titulo{
+        flex-direction: column;
+    }
+}

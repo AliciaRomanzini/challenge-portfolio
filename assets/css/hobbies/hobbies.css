@@ -1,0 +1,18 @@
+.hobbies{
+    width: 1,136px;
+    height: 244px;
+    gap: 32px;
+    
+}
+
+@media screen and (max-width: 768px){
+    .hobbies{
+     flex-wrap: wrap;
+     width: 360px;
+     height: 508px;
+     padding: 16px;
+     gap: 32px;
+     margin-bottom: 600px;
+    }
+    
+ }  

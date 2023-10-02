@@ -1,0 +1,18 @@
+.formcontato{
+    width: 1,440px;
+    height: 588px;
+    padding: 64px;
+    gap: 10px;
+    background-color:  #EAF2FD;
+    margin-top: 2rem;
+    
+}
+
+@media screen and (max-width: 768px){
+    .formcontato{
+        padding: 32px;
+        width: 350px;
+        height: 860px;
+       
+    }
+}
